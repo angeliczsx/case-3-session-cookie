@@ -90,7 +90,7 @@
                     if (response === 'success') {
                         Swal.fire({
                             title: 'Login Successful',
-                            text: 'Login berhasil! anda akan redirect ke profile page',
+                            text: 'Login berhasil! Anda akan diarahkan ke halaman profil',
                             icon: 'success',
                             timer: 3000, 
                             timerProgressBar: true, 
